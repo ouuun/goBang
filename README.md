@@ -35,7 +35,7 @@ a goBang game base on qt c++
 
 ![image](https://api.fanjiaming.top/images/github/goBang/9.png)
 
-![image](https://api.fanjiaming.top/images/github/goBang/GIF 2023-3-20 14-43-08.gif)
+![image](https://api.fanjiaming.top/images/github/goBang/10.gif)
 
 
 ## Getting Started
